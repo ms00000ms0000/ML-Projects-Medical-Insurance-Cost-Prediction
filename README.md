@@ -94,7 +94,6 @@ The model effectively predicts insurance costs, identifying **smoking status**, 
 │
 ├── medical_insurance_cost_prediction.ipynb # Jupyter Notebook implementation
 ├── insurance.csv # Dataset used
-├── requirements.txt # Libraries and dependencies
 └── README.md # Documentation file
 ```
 
